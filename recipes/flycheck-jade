@@ -1,0 +1,1 @@
+(flycheck-jade :repo "robbyoconnor/flycheck-jade" :fetcher github)
